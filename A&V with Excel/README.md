@@ -1,7 +1,3 @@
-# Student info:
-	Omar Saeed Ali Negm
-	omarnegm2014@gmail.com
-	01092446124
 ***
 # Deliverables(in the `students (version 1).xlsx`):
 2. The statistical measures for the dataset:
